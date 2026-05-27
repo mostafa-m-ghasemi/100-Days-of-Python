@@ -5,7 +5,7 @@ This repository contains my journey of learning Python in 100 days.
 
 ## Structure
 Each folder represents one day:
-- day01 → Day 1 exercises
+- [Day_01](Day 01)→ Input Practice
 - day02 → Day 2 exercises
 - ...
 - day100 → Final projects
