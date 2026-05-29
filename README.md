@@ -12,11 +12,11 @@ Each folder represents one day:
 - [Day 05](day05/) → Python Loops
 - [Day 06](day06/) → Python Functions & Karel
 - [Day 07](day07/) → Hangman
-- [Day 08](day080) → Function Parameters & Caesar Cipher
-- [Day 09](day090) → Dictionaries, Nesting and Secret Auction
-- [Day 10](day100) → Function with Outputs
-- [Day 11](day110) → The Blackjack Capstone Project
-- [Day 12](day120) → Scope & Number Guessing Game
+- [Day 08](day08/) → Function Parameters & Caesar Cipher
+- [Day 09](day09/) → Dictionaries, Nesting and Secret Auction
+- [Day 10](day10/) → Function with Outputs
+- [Day 11](day11/) → The Blackjack Capstone Project
+- [Day 12](day12/) → Scope & Number Guessing Game
 - ...
 - day100 → Final projects
 
