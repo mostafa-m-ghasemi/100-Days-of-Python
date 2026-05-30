@@ -24,9 +24,9 @@ Each folder represents one day:
 To improve Python skills by building daily projects and exercises.
 
 ## Progress
-- [ ] Day 8
-- [ ] Day 9
-- [ ] Day 10
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
 ...
 - [ ] Day 100
 
