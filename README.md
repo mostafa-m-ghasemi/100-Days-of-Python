@@ -17,6 +17,8 @@ Each folder represents one day:
 - [Day 10](day10/) → Function with Outputs
 - [Day 11](day11/) → The Blackjack Capstone Project
 - [Day 12](day12/) → Scope & Number Guessing Game
+- [Day 13](day13/) → Fix The Value Error!
+- [Day 14](day14/) → Higher Lower Game
 - ...
 - day100 → Final projects
 
