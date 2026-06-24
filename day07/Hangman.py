@@ -1,5 +1,6 @@
 import random
 import tqdm
+import time
 
 for i in tqdm(range(100), colour= 'blue'):
     time.sleep(0.06)
