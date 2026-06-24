@@ -1,6 +1,9 @@
+import tqdm
+import sleep from time
 alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-
+for i in tqdm(range(100), colour= 'blue'):
+    time.sleep(0.06)
 
 # def encrypt (original_text, shift_amount):
 #     cipher_text = ""
