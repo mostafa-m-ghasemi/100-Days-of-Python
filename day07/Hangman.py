@@ -1,4 +1,9 @@
 import random
+import tqdm
+
+for i in tqdm(range(100), colour= 'blue'):
+    time.sleep(0.06)
+    
 print("*" * 15, "Welcome to the Hangman!", "*" * 15)
 
 word_list = ["strawberry", "raspberry", "cherry", "watermelon", "apple", "plum", "banana", "melon", "lemon", "pineapple", "apricot", "mango", "nectarian", "orange", "avocado", "grapes", "blueberry", "blackberry", "peach"]
